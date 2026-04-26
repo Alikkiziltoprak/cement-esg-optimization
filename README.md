@@ -8,7 +8,7 @@
 
 
 
-🚀 \*\*\[Live Demo → limak-cement-esg.streamlit.app](https://limak-cement-esg.streamlit.app)\*\*
+🚀 **[Live Demo → limak-cement-esg.streamlit.app](https://limak-cement-esg.streamlit.app)**
 
 
 
@@ -114,11 +114,7 @@ Python | Pandas | NumPy | Matplotlib | Seaborn | SciPy | Streamlit | Plotly
 
 \## Author
 
-\*\*Ali Kemal Kızıltoprak\*\*  
-
-16 years experience in Accounting, Finance \& Risk Management (Cement Industry)  
-
-MS Data Science — University of Pittsburgh  
+\*\*Ali K Kiziltoprak\*\*  
 
 \[GitHub](https://github.com/Alikkiziltoprak)
 
